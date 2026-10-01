@@ -857,3 +857,4 @@ xmm_scrypt_core_loop2:
 	ret
 
 #endif
+.section .note.GNU-stack,"",@progbits
